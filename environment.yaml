@@ -12,7 +12,6 @@ dependencies:
   - matplotlib
   - numpy
   - pandas
+  - pandas-profiling
   - scikit-learn
   - ipykernel
-    
-
